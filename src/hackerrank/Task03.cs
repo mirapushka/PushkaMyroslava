@@ -1,29 +1,78 @@
-﻿//https://www.hackerrank.com/challenges/staircase/problem
+//https://www.hackerrank.com/challenges/grading
+using System.CodeDom.Compiler;
+using System.Collections.Generic;
+using System.Collections;
+using System.ComponentModel;
+using System.Diagnostics.CodeAnalysis;
+using System.Globalization;
+using System.IO;
+using System.Linq;
+using System.Reflection;
+using System.Runtime.Serialization;
+using System.Text.RegularExpressions;
+using System.Text;
 using System;
+
 class Result
 {
 
     /*
-     * Complete the 'staircase' function below.
+     * Complete the 'gradingStudents' function below.
      *
-     * The function accepts INTEGER n as parameter.
+     * The function is expected to return an INTEGER_ARRAY.
+     * The function accepts INTEGER_ARRAY grades as parameter.
      */
 
-    public static void staircase(int n)
+    public static List<int> gradingStudents(List<int> grades)
     {
-for (int i = 1; i <= n; i++)
+List<int> roundedGrades = new List<int>();
+
+    foreach (int grade in grades)
+    {
+        if (grade < 38)
         {
-            Console.WriteLine(new string(' ', n - i) + new string('#', i));
+            roundedGrades.Add(grade);
+        }
+        else
+        {
+            int nextMultiple = ((grade / 5) + 1) * 5;
+
+            if (nextMultiple - grade < 3)
+            {
+                roundedGrades.Add(nextMultiple);
+            }
+            else
+            {
+                roundedGrades.Add(grade);
+            }
         }
     }
-
+    return roundedGrades;
 }
+    }
+
+
 class Solution
 {
     public static void Main(string[] args)
     {
-        int n = Convert.ToInt32(Console.ReadLine().Trim());
+        TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable("OUTPUT_PATH"), true);
 
-        Result.staircase(n);
+        int gradesCount = Convert.ToInt32(Console.ReadLine().Trim());
+
+        List<int> grades = new List<int>();
+
+        for (int i = 0; i < gradesCount; i++)
+        {
+            int gradesItem = Convert.ToInt32(Console.ReadLine().Trim());
+            grades.Add(gradesItem);
+        }
+
+        List<int> result = Result.gradingStudents(grades);
+
+        textWriter.WriteLine(String.Join("\n", result));
+
+        textWriter.Flush();
+        textWriter.Close();
     }
 }

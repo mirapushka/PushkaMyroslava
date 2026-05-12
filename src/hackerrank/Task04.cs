@@ -1,7 +1,4 @@
-//https://www.hackerrank.com/challenges/grading
-using System.CodeDom.Compiler;
-using System.Collections.Generic;
-using System.Collections;
+//https://www.hackerrank.com/challenges/apple-and-orange
 using System.ComponentModel;
 using System.Diagnostics.CodeAnalysis;
 using System.Globalization;
@@ -17,62 +14,69 @@ class Result
 {
 
     /*
-     * Complete the 'gradingStudents' function below.
+     * Complete the 'countApplesAndOranges' function below.
      *
-     * The function is expected to return an INTEGER_ARRAY.
-     * The function accepts INTEGER_ARRAY grades as parameter.
+     * The function accepts following parameters:
+     *  1. INTEGER s
+     *  2. INTEGER t
+     *  3. INTEGER a
+     *  4. INTEGER b
+     *  5. INTEGER_ARRAY apples
+     *  6. INTEGER_ARRAY oranges
      */
 
-    public static List<int> gradingStudents(List<int> grades)
+    public static void countApplesAndOranges(int s, int t, int a, int b, List<int> apples, List<int> oranges)
     {
-List<int> roundedGrades = new List<int>();
+int appleCount = 0;
+        int orangeCount = 0;
 
-    foreach (int grade in grades)
-    {
-        if (grade < 38)
+        foreach (int apple in apples)
         {
-            roundedGrades.Add(grade);
+            int pos = a + apple;
+            if (pos >= s && pos <= t) appleCount++;
         }
-        else
-        {
-            int nextMultiple = ((grade / 5) + 1) * 5;
 
-            if (nextMultiple - grade < 3)
-            {
-                roundedGrades.Add(nextMultiple);
-            }
-            else
-            {
-                roundedGrades.Add(grade);
-            }
+        foreach (int orange in oranges)
+        {
+            int pos = b + orange;
+            if (pos >= s && pos <= t) orangeCount++;
         }
+
+        Console.WriteLine(appleCount);
+        Console.WriteLine(orangeCount);
+    
     }
-    return roundedGrades;
+
 }
-    }
-
 
 class Solution
 {
     public static void Main(string[] args)
     {
-        TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable("OUTPUT_PATH"), true);
+        string[] firstMultipleInput = Console.ReadLine().TrimEnd().Split(' ');
 
-        int gradesCount = Convert.ToInt32(Console.ReadLine().Trim());
+        int s = Convert.ToInt32(firstMultipleInput[0]);
 
-        List<int> grades = new List<int>();
+        int t = Convert.ToInt32(firstMultipleInput[1]);
 
-        for (int i = 0; i < gradesCount; i++)
-        {
-            int gradesItem = Convert.ToInt32(Console.ReadLine().Trim());
-            grades.Add(gradesItem);
-        }
+        string[] secondMultipleInput = Console.ReadLine().TrimEnd().Split(' ');
 
-        List<int> result = Result.gradingStudents(grades);
+        int a = Convert.ToInt32(secondMultipleInput[0]);
 
-        textWriter.WriteLine(String.Join("\n", result));
+        int b = Convert.ToInt32(secondMultipleInput[1]);
 
-        textWriter.Flush();
-        textWriter.Close();
+        string[] thirdMultipleInput = Console.ReadLine().TrimEnd().Split(' ');
+
+        int m = Convert.ToInt32(thirdMultipleInput[0]);
+
+        int n = Convert.ToInt32(thirdMultipleInput[1]);
+
+        List<int> apples = Console.ReadLine().TrimEnd().Split(' ').ToList().Select(applesTemp => Convert.ToInt32(applesTemp)).ToList();
+
+        List<int> oranges = Console.ReadLine().TrimEnd().Split(' ').ToList().Select(orangesTemp => Convert.ToInt32(orangesTemp)).ToList();
+
+        Result.countApplesAndOranges(s, t, a, b, apples, oranges);
     }
 }
+    
+
