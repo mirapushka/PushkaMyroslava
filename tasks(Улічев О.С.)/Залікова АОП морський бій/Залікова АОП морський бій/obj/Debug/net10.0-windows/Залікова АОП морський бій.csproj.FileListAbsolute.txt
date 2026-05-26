@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Залікова АОП морський бій\Залікова АОП морський бій\bin\Debug\net10.0-windows\Залікова АОП морський бій.exe
+C:\Users\Admin\source\repos\Залікова АОП морський бій\Залікова АОП морський бій\bin\Debug\net10.0-windows\Залікова АОП морський бій.deps.json
+C:\Users\Admin\source\repos\Залікова АОП морський бій\Залікова АОП морський бій\bin\Debug\net10.0-windows\Залікова АОП морський бій.runtimeconfig.json
+C:\Users\Admin\source\repos\Залікова АОП морський бій\Залікова АОП морський бій\bin\Debug\net10.0-windows\Залікова АОП морський бій.dll
+C:\Users\Admin\source\repos\Залікова АОП морський бій\Залікова АОП морський бій\bin\Debug\net10.0-windows\Залікова АОП морський бій.pdb
+C:\Users\Admin\source\repos\Залікова АОП морський бій\Залікова АОП морський бій\obj\Debug\net10.0-windows\Залікова_АОП_морський_бій.Form1.resources
+C:\Users\Admin\source\repos\Залікова АОП морський бій\Залікова АОП морський бій\obj\Debug\net10.0-windows\Залікова АОП морський бій.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Залікова АОП морський бій\Залікова АОП морський бій\obj\Debug\net10.0-windows\Залікова АОП морський бій.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Залікова АОП морський бій\Залікова АОП морський бій\obj\Debug\net10.0-windows\Залікова АОП морський бій.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Залікова АОП морський бій\Залікова АОП морський бій\obj\Debug\net10.0-windows\Залікова АОП морський бій.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Залікова АОП морський бій\Залікова АОП морський бій\obj\Debug\net10.0-windows\Залікова АОП морський бій.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Залікова АОП морський бій\Залікова АОП морський бій\obj\Debug\net10.0-windows\Залікова АОП морський бій.dll
+C:\Users\Admin\source\repos\Залікова АОП морський бій\Залікова АОП морський бій\obj\Debug\net10.0-windows\refint\Залікова АОП морський бій.dll
+C:\Users\Admin\source\repos\Залікова АОП морський бій\Залікова АОП морський бій\obj\Debug\net10.0-windows\Залікова АОП морський бій.pdb
+C:\Users\Admin\source\repos\Залікова АОП морський бій\Залікова АОП морський бій\obj\Debug\net10.0-windows\Залікова АОП морський бій.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Залікова АОП морський бій\Залікова АОП морський бій\obj\Debug\net10.0-windows\ref\Залікова АОП морський бій.dll

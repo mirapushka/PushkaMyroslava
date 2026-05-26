@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\АОП Практична робота №2\АОП Практична робота №2\obj\Debug\net10.0-windows\АОП_Практична_робота__2.Form1.resources
+C:\Users\Admin\source\repos\АОП Практична робота №2\АОП Практична робота №2\obj\Debug\net10.0-windows\АОП Практична робота №2.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\АОП Практична робота №2\АОП Практична робота №2\obj\Debug\net10.0-windows\АОП Практична робота №2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\АОП Практична робота №2\АОП Практична робота №2\obj\Debug\net10.0-windows\АОП Практична робота №2.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\АОП Практична робота №2\АОП Практична робота №2\obj\Debug\net10.0-windows\АОП Практична робота №2.AssemblyInfo.cs
+C:\Users\Admin\source\repos\АОП Практична робота №2\АОП Практична робота №2\obj\Debug\net10.0-windows\АОП Практична робота №2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\АОП Практична робота №2\АОП Практична робота №2\bin\Debug\net10.0-windows\АОП Практична робота №2.exe
+C:\Users\Admin\source\repos\АОП Практична робота №2\АОП Практична робота №2\bin\Debug\net10.0-windows\АОП Практична робота №2.deps.json
+C:\Users\Admin\source\repos\АОП Практична робота №2\АОП Практична робота №2\bin\Debug\net10.0-windows\АОП Практична робота №2.runtimeconfig.json
+C:\Users\Admin\source\repos\АОП Практична робота №2\АОП Практична робота №2\bin\Debug\net10.0-windows\АОП Практична робота №2.dll
+C:\Users\Admin\source\repos\АОП Практична робота №2\АОП Практична робота №2\bin\Debug\net10.0-windows\АОП Практична робота №2.pdb
+C:\Users\Admin\source\repos\АОП Практична робота №2\АОП Практична робота №2\obj\Debug\net10.0-windows\АОП Практична робота №2.dll
+C:\Users\Admin\source\repos\АОП Практична робота №2\АОП Практична робота №2\obj\Debug\net10.0-windows\refint\АОП Практична робота №2.dll
+C:\Users\Admin\source\repos\АОП Практична робота №2\АОП Практична робота №2\obj\Debug\net10.0-windows\АОП Практична робота №2.pdb
+C:\Users\Admin\source\repos\АОП Практична робота №2\АОП Практична робота №2\obj\Debug\net10.0-windows\АОП Практична робота №2.genruntimeconfig.cache
+C:\Users\Admin\source\repos\АОП Практична робота №2\АОП Практична робота №2\obj\Debug\net10.0-windows\ref\АОП Практична робота №2.dll
