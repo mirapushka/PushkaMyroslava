@@ -17,26 +17,33 @@ class Result
 {
 
     /*
-     * Complete the 'pageCount' function below.
+     * Complete the 'diagonalDifference' function below.
      *
      * The function is expected to return an INTEGER.
-     * The function accepts following parameters:
-     *  1. INTEGER n
-     *  2. INTEGER p
+     * The function accepts 2D_INTEGER_ARRAY arr as parameter.
      */
 
-    public static int pageCount(int n, int p)
+    public static int diagonalDifference(List<List<int>> arr)
     {
-int fromStart = p / 2;
-        int fromEnd = (n / 2) - (p / 2);
+int primaryDiagonal = 0;
+        int secondaryDiagonal = 0;
+        int n = arr.Count;
 
-        if (fromStart < fromEnd)
+        for (int i = 0; i < n; i++)
         {
-            return fromStart;
+            primaryDiagonal += arr[i][i];
+            secondaryDiagonal += arr[i][n - 1 - i];
+        }
+
+        int difference = primaryDiagonal - secondaryDiagonal;
+
+        if (difference < 0)
+        {
+            return -difference;
         }
         else
         {
-            return fromEnd;
+            return difference;
         }
     }
 
@@ -50,9 +57,14 @@ class Solution
 
         int n = Convert.ToInt32(Console.ReadLine().Trim());
 
-        int p = Convert.ToInt32(Console.ReadLine().Trim());
+        List<List<int>> arr = new List<List<int>>();
 
-        int result = Result.pageCount(n, p);
+        for (int i = 0; i < n; i++)
+        {
+            arr.Add(Console.ReadLine().TrimEnd().Split(' ').ToList().Select(arrTemp => Convert.ToInt32(arrTemp)).ToList());
+        }
+
+        int result = Result.diagonalDifference(arr);
 
         textWriter.WriteLine(result);
 
@@ -60,3 +72,4 @@ class Solution
         textWriter.Close();
     }
 }
+
