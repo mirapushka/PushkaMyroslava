@@ -26,6 +26,5 @@ try:
                 balance = balance - vsego
                 print(f"Баланс: {balance:.2f} грн")
 
-
 except ValueError:
     print("Введіть число")
