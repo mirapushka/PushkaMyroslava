@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\\u0410\u041E\u041F 3\u043F\u0440\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C413BE3F-61F6-47C5-A1AC-5E2F419F5A0F}|\u0410\u041E\u041F 3\u043F\u0440\\\u0410\u041E\u041F 3\u043F\u0440.csproj|c:\\users\\admin\\source\\repos\\\u0430\u043E\u043F 3\u043F\u0440\\\u0430\u043E\u043F 3\u043F\u0440\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C413BE3F-61F6-47C5-A1AC-5E2F419F5A0F}|\u0410\u041E\u041F 3\u043F\u0440\\\u0410\u041E\u041F 3\u043F\u0440.csproj|solutionrelative:\u0430\u043E\u043F 3\u043F\u0440\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C413BE3F-61F6-47C5-A1AC-5E2F419F5A0F}|\u0410\u041E\u041F 3\u043F\u0440\\\u0410\u041E\u041F 3\u043F\u0440.csproj|c:\\users\\admin\\source\\repos\\\u0430\u043E\u043F 3\u043F\u0440\\\u0430\u043E\u043F 3\u043F\u0440\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C413BE3F-61F6-47C5-A1AC-5E2F419F5A0F}|\u0410\u041E\u041F 3\u043F\u0440\\\u0410\u041E\u041F 3\u043F\u0440.csproj|solutionrelative:\u0430\u043E\u043F 3\u043F\u0440\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\\u0410\u041E\u041F 3\u043F\u0440\\\u0410\u041E\u041F 3\u043F\u0440\\Form1.cs",
+              "RelativeDocumentMoniker": "\u0410\u041E\u041F 3\u043F\u0440\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\\u0410\u041E\u041F 3\u043F\u0440\\\u0410\u041E\u041F 3\u043F\u0440\\Form1.cs",
+              "RelativeToolTip": "\u0410\u041E\u041F 3\u043F\u0440\\Form1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T13:04:36.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\\u0410\u041E\u041F 3\u043F\u0440\\\u0410\u041E\u041F 3\u043F\u0440\\Form1.cs",
+              "RelativeDocumentMoniker": "\u0410\u041E\u041F 3\u043F\u0440\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\\u0410\u041E\u041F 3\u043F\u0440\\\u0410\u041E\u041F 3\u043F\u0440\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "\u0410\u041E\u041F 3\u043F\u0440\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T13:03:56.183Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

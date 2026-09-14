@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\Задача день народження АОП\Задача день народження АОП\bin\Debug\net10.0-windows\Задача день народження АОП.exe
+C:\Users\Admin\source\repos\Задача день народження АОП\Задача день народження АОП\bin\Debug\net10.0-windows\Задача день народження АОП.deps.json
+C:\Users\Admin\source\repos\Задача день народження АОП\Задача день народження АОП\bin\Debug\net10.0-windows\Задача день народження АОП.runtimeconfig.json
+C:\Users\Admin\source\repos\Задача день народження АОП\Задача день народження АОП\bin\Debug\net10.0-windows\Задача день народження АОП.dll
+C:\Users\Admin\source\repos\Задача день народження АОП\Задача день народження АОП\bin\Debug\net10.0-windows\Задача день народження АОП.pdb
+C:\Users\Admin\source\repos\Задача день народження АОП\Задача день народження АОП\obj\Debug\net10.0-windows\Задача_день_народження_АОП.Form1.resources
+C:\Users\Admin\source\repos\Задача день народження АОП\Задача день народження АОП\obj\Debug\net10.0-windows\Задача день народження АОП.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Задача день народження АОП\Задача день народження АОП\obj\Debug\net10.0-windows\Задача день народження АОП.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Задача день народження АОП\Задача день народження АОП\obj\Debug\net10.0-windows\Задача день народження АОП.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Задача день народження АОП\Задача день народження АОП\obj\Debug\net10.0-windows\Задача день народження АОП.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Задача день народження АОП\Задача день народження АОП\obj\Debug\net10.0-windows\Задача день народження АОП.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Задача день народження АОП\Задача день народження АОП\obj\Debug\net10.0-windows\Задача день народження АОП.dll
+C:\Users\Admin\source\repos\Задача день народження АОП\Задача день народження АОП\obj\Debug\net10.0-windows\refint\Задача день народження АОП.dll
+C:\Users\Admin\source\repos\Задача день народження АОП\Задача день народження АОП\obj\Debug\net10.0-windows\Задача день народження АОП.pdb
+C:\Users\Admin\source\repos\Задача день народження АОП\Задача день народження АОП\obj\Debug\net10.0-windows\Задача день народження АОП.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Задача день народження АОП\Задача день народження АОП\obj\Debug\net10.0-windows\ref\Задача день народження АОП.dll
+C:\Users\Admin\source\repos\Задача день народження АОП\Задача день народження АОП\obj\Debug\net10.0-windows\Задача_день_народження_АОП.Form2.resources
