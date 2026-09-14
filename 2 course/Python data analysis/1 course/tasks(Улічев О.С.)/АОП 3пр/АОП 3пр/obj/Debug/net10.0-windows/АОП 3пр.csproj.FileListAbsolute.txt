@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\АОП 3пр\АОП 3пр\bin\Debug\net10.0-windows\АОП 3пр.exe
+C:\Users\Admin\source\repos\АОП 3пр\АОП 3пр\bin\Debug\net10.0-windows\АОП 3пр.deps.json
+C:\Users\Admin\source\repos\АОП 3пр\АОП 3пр\bin\Debug\net10.0-windows\АОП 3пр.runtimeconfig.json
+C:\Users\Admin\source\repos\АОП 3пр\АОП 3пр\bin\Debug\net10.0-windows\АОП 3пр.dll
+C:\Users\Admin\source\repos\АОП 3пр\АОП 3пр\bin\Debug\net10.0-windows\АОП 3пр.pdb
+C:\Users\Admin\source\repos\АОП 3пр\АОП 3пр\obj\Debug\net10.0-windows\АОП_3пр.Form1.resources
+C:\Users\Admin\source\repos\АОП 3пр\АОП 3пр\obj\Debug\net10.0-windows\АОП 3пр.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\АОП 3пр\АОП 3пр\obj\Debug\net10.0-windows\АОП 3пр.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\АОП 3пр\АОП 3пр\obj\Debug\net10.0-windows\АОП 3пр.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\АОП 3пр\АОП 3пр\obj\Debug\net10.0-windows\АОП 3пр.AssemblyInfo.cs
+C:\Users\Admin\source\repos\АОП 3пр\АОП 3пр\obj\Debug\net10.0-windows\АОП 3пр.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\АОП 3пр\АОП 3пр\obj\Debug\net10.0-windows\АОП 3пр.dll
+C:\Users\Admin\source\repos\АОП 3пр\АОП 3пр\obj\Debug\net10.0-windows\refint\АОП 3пр.dll
+C:\Users\Admin\source\repos\АОП 3пр\АОП 3пр\obj\Debug\net10.0-windows\АОП 3пр.pdb
+C:\Users\Admin\source\repos\АОП 3пр\АОП 3пр\obj\Debug\net10.0-windows\АОП 3пр.genruntimeconfig.cache
+C:\Users\Admin\source\repos\АОП 3пр\АОП 3пр\obj\Debug\net10.0-windows\ref\АОП 3пр.dll

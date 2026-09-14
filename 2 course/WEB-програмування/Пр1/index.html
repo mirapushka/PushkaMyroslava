@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Моя візитка</title>
+    
+    <style>
+        body {
+            background-color: #1a1a1a;
+            font-family: Arial, sans-serif;
+            color: #ffffff;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            transition: background 0.5s ease;
+        }
+
+        /* Анімований фон */
+        body.animated-bg {
+            background: linear-gradient(-45deg, #420707, #620e2e, #450c3e, #0c0432);
+            background-size: 400% 400%;
+            animation: gradientBg 10s ease infinite;
+        }
+
+        @keyframes gradientBg {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+        }
+
+        .section {
+            background-color: rgba(0, 0, 0, 0.4);
+            backdrop-filter: blur(8px);
+            width: 320px;
+            padding: 25px;
+            border-radius: 16px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.5);
+            text-align: center;
+            border: 1px solid rgba(255, 255, 255, 0.15);
+        }
+
+        h1 {
+            text-align: center;
+            color: #32b1df;
+            margin-top: 10px;
+        }
+
+        .avatar {
+            width: 120px;
+            height: 120px;
+            border-radius: 50%;
+            display: block;
+            margin: 0 auto;
+            object-fit: cover;
+        }
+
+        ul {
+            text-align: left;
+            padding-left: 20px;
+        }
+
+        li {
+            margin-bottom: 5px;
+        }
+
+        a {
+            color: #e362b8;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        a:hover {
+            color: #df3257;
+            text-decoration: underline;
+        }
+
+        .btn {
+            background: #32bfdf;
+            padding: 12px 20px;
+            border-radius: 20px;
+            border: none;
+            color: #651371;
+            font-weight: 600;
+            font-size: 16px;
+            cursor: pointer;
+            display: block;
+            margin: 15px auto 0 auto;
+            transition: all 0.3s ease;
+        }
+
+        .btn:hover {
+            background: rgb(59, 61, 175);
+            color: #ffffff;
+            transform: scale(1.05);
+        }
+    </style>
+</head>
+<body>
+
+    <main class="main">
+        <section class="section">
+            <img src="https://scontent-waw2-1.xx.fbcdn.net/v/t51.82787-15/750565520_18579190783071488_3218811082232822726_n.jpg?stp=dst-jpegr_tt6&cstp=mx3024x4032&ctp=s3024x4032&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=kPv88-z-tvEQ7kNvwGZ2JgF&_nc_oc=AdriNb6iF6beYqlgg4vFbCCQ1554EYA1UDZqcjvoV_NLyZruO9IfEnKnQxfNQfW6oeU&_nc_zt=23&se=-1&_nc_ht=scontent-waw2-1.xx&_nc_gid=aPKgzzR5gRJgWb0kr9f2Dw&_nc_ss=7b2a8&oh=00_AQJfoegUl14qj0m0Biuwp11klaDOHUODImq3V3R4IVMhFw&oe=6AAE0A88" alt="Моє фото" class="avatar">
+
+            <h1>Мирослава Пушка</h1>
+
+            <p>Студентка ЄУ. Люблю вивчати світ та пробувати нове. Прагну розвиватися в IT-сфері.</p>
+
+            <h3>Мої хобі:</h3>
+            <ul>
+                <li>Вивчення мов</li>
+                <li>Гітара</li>
+                <li>Йога</li>
+            </ul>
+
+            <p>Улюблений сайт: <a href="https://www.pinterest.com/" target="_blank">Pinterest</a></p>
+
+            <button class="btn" id="bgToggleBtn">Увімкнути</button>
+        </section>
+    </main>
+
+    <script>
+        const btn = document.getElementById('bgToggleBtn');
+        
+        btn.addEventListener('click', () => {
+            document.body.classList.toggle('animated-bg');
+            
+            if (document.body.classList.contains('animated-bg')) {
+                btn.textContent = 'Вимкнути';
+            } else {
+                btn.textContent = 'Увімкнути';
+            }
+        });
+    </script>
+
+</body>
+</html>

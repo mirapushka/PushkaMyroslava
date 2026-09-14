@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\АОП 4пр\АОП 4пр\bin\Debug\net10.0-windows\АОП 4пр.exe
+C:\Users\Admin\source\repos\АОП 4пр\АОП 4пр\bin\Debug\net10.0-windows\АОП 4пр.deps.json
+C:\Users\Admin\source\repos\АОП 4пр\АОП 4пр\bin\Debug\net10.0-windows\АОП 4пр.runtimeconfig.json
+C:\Users\Admin\source\repos\АОП 4пр\АОП 4пр\bin\Debug\net10.0-windows\АОП 4пр.dll
+C:\Users\Admin\source\repos\АОП 4пр\АОП 4пр\bin\Debug\net10.0-windows\АОП 4пр.pdb
+C:\Users\Admin\source\repos\АОП 4пр\АОП 4пр\obj\Debug\net10.0-windows\АОП_4пр.Form1.resources
+C:\Users\Admin\source\repos\АОП 4пр\АОП 4пр\obj\Debug\net10.0-windows\АОП 4пр.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\АОП 4пр\АОП 4пр\obj\Debug\net10.0-windows\АОП 4пр.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\АОП 4пр\АОП 4пр\obj\Debug\net10.0-windows\АОП 4пр.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\АОП 4пр\АОП 4пр\obj\Debug\net10.0-windows\АОП 4пр.AssemblyInfo.cs
+C:\Users\Admin\source\repos\АОП 4пр\АОП 4пр\obj\Debug\net10.0-windows\АОП 4пр.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\АОП 4пр\АОП 4пр\obj\Debug\net10.0-windows\АОП 4пр.dll
+C:\Users\Admin\source\repos\АОП 4пр\АОП 4пр\obj\Debug\net10.0-windows\refint\АОП 4пр.dll
+C:\Users\Admin\source\repos\АОП 4пр\АОП 4пр\obj\Debug\net10.0-windows\АОП 4пр.pdb
+C:\Users\Admin\source\repos\АОП 4пр\АОП 4пр\obj\Debug\net10.0-windows\АОП 4пр.genruntimeconfig.cache
+C:\Users\Admin\source\repos\АОП 4пр\АОП 4пр\obj\Debug\net10.0-windows\ref\АОП 4пр.dll
