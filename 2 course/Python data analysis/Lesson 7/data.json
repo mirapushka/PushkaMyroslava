@@ -1,0 +1,26 @@
+[
+    {
+        "order_id": "123",
+        "product_name": "Яблуко",
+        "price": "10",
+        "quantity": "2",
+        "status": "1",
+        "total_cost": 20.0
+    },
+    {
+        "order_id": "123",
+        "product_name": "Банан",
+        "price": "8.5",
+        "quantity": "5",
+        "status": "1",
+        "total_cost": 42.5
+    },
+    {
+        "order_id": "125",
+        "product_name": "Кокос",
+        "price": "15.3",
+        "quantity": "1",
+        "status": "1",
+        "total_cost": 15.3
+    }
+]
