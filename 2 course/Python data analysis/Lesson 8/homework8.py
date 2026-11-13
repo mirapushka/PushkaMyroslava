@@ -2,7 +2,6 @@ import functools
 
 
 def log_execution(func):
-  """Декоратор, який логує виклик функції, її аргументи та результат."""
 
   @functools.wraps(func)
   def wrapper(*args, **kwargs):
@@ -15,7 +14,7 @@ def log_execution(func):
 
 @log_execution
 def calc_vat(amount: float, vat_rate: float = 0.20) -> float:
-  """Обчислює суму ПДВ."""
+
   if amount < 0:
     raise ValueError("Сума не може бути від'ємною")
   return amount * vat_rate

@@ -12,7 +12,7 @@ def validate_positive_numbers(func):
 
 @validate_positive_numbers
 def get_area(a, b):
-    """Повертає площу прямокутника."""
+    
     return a * b
 
 if __name__ == "__main__":
