@@ -1,0 +1,5 @@
+product_id,title,author,price_uah,stock_status,relative_url
+101,Python для аналізу даних,Уес Маккінні,850.0,В наявності,/catalog/item/101
+102,Прикладне машинне навчання з Scikit-Learn,Орельєн Жерон,1200.0,В наявності,/catalog/item/102
+103,Глибоке навчання без математики,Франсуа Шолле,950.5,Очікується,/catalog/item/103
+104,Чистий код у Python,Маріано Анайя,720.0,В наявності,/catalog/item/104
